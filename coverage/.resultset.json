@@ -53,8 +53,27 @@
       ],
       "/Users/much2money/Documents/373/ChoreTracker/app/models/chore.rb": [
         1,
+        null,
         1,
         1,
+        null,
+        1,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
         null
       ],
       "/Users/much2money/Documents/373/ChoreTracker/app/models/child.rb": [
@@ -64,8 +83,12 @@
         1,
         1,
         null,
+        3,
+        2,
         1,
-        1,
+        3,
+        null,
+        null,
         1,
         0,
         null,
@@ -323,6 +346,6 @@
         0
       ]
     },
-    "timestamp": 1548201569
+    "timestamp": 1548202548
   }
 }
